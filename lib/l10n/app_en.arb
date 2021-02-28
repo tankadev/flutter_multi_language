@@ -1,0 +1,14 @@
+{
+  "title": "Flutter Demo Home Page",
+  "@title": {
+    "description": "Flutter Demo Home Page"
+  },
+  "mainText": "You have pushed the button this many times",
+  "@mainText": {
+    "description": "You have pushed the button this many times"
+  },
+  "btnIncrement": "Increment",
+  "@btnIncrement": {
+    "description": "Increment"
+  }
+}
